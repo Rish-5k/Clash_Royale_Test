@@ -60,4 +60,4 @@ based on actionability and insightfulness.
 
 
 - Full report is found [here](https://github.com/Rish-5k/Clash_Royale_Test/blob/main/Kesari.Rishikesh_TestReport.pdf).
-- Full data analysis code in python is found [here](https://github.com/Rish-5k/Clash_Royale_Test/edit/main/README.md#:~:text=Copy_of_Clash_Royale_Data_Intern_Test).
+- Full data analysis code in python is found [here](https://github.com/Rish-5k/Clash_Royale_Test/blob/main/Copy_of_Clash_Royale_Data_Intern_Test.ipynb).
