@@ -18,7 +18,7 @@ this data set to answer the questions below and prepare a report of your finding
 report should be written to an audience of game and business developers, and it will be 
 reviewed on actionability, insightfulness and clarity.
 
-## About data:
+## About data and test instruction:
 
 The database contains three tables: **account**, **account_date_session** and **iap_purchase**. 
 **account** contains user profiles, **iap_purchase** contains in-app purchases by the users, and 
@@ -60,3 +60,4 @@ based on actionability and insightfulness.
 
 
 - Full report is found [here](https://github.com/Rish-5k/Clash_Royale_Test/blob/main/Kesari.Rishikesh_TestReport.pdf).
+- Full data analysis code in python is found [here](https://github.com/Rish-5k/Clash_Royale_Test/edit/main/README.md#:~:text=Copy_of_Clash_Royale_Data_Intern_Test).
